@@ -1,0 +1,6 @@
+{
+  "name": "Europe UK 25 Days Itinerary Planner",
+  "description": "An elegant, comprehensive 25-day minimalist itinerary planner for the UK, Czech Republic, Austria, and Croatia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
